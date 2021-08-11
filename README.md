@@ -9,4 +9,8 @@
 
 ### Basic Web Service Architecture(AWS)
 
-<img src="/img/AWS_Basic-Web-Service-Architecture.png" width="500px">
+<img src="/img/AWS_Basic-Web-Service-Architecture.png" width="750px">
+
+### CI-CD 구성
+
+<img src="/img/CI-CD.png" width="750px">
