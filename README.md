@@ -14,3 +14,7 @@
 ### CI-CD 구성
 
 <img src="/img/CI-CD.png" width="750px">
+
+### RDB ERD
+
+<img src="/img/RDB_ERD.png" width="750px">
