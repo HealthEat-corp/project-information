@@ -7,6 +7,13 @@
 건강기능식품에 대한 정보 부족으로 구입하기 전 "효능, 효과에 대한 허위/과장 광고", "제품의 안정성 의심", "신뢰 할 수 있는 정보 부족" 등 여러가지 불편사항을 겪고 있다.</br>
 이 프로젝트는 개인의 공부 목적 또한 있지만 위와 같은 문제를 해결하고, 정보 부족으로 인한 정보의 비대칭성을 해결하고자 한다.</br>
 
+### 기술 스택
+언어 : Kotlin, Python</br>
+프레임워크 : Spring</br>
+DB : MariaDB, MongoDB</br>
+검색엔진 : ElasticSearch</br>
+기타 : Docker, Jenkins, AWS Cloud</br> 
+
 ### Basic Web Service Architecture(AWS)
 
 <img src="/img/AWS_Basic-Web-Service-Architecture-v2.png" width="750px">
